@@ -1,3 +1,0 @@
-"# djangoproject" 
-"# djangoproject" 
-# mydjango
